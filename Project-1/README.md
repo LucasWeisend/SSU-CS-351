@@ -66,7 +66,7 @@ Another thing to mention is that **malloc.out**’s reduction in heap breaks is 
   - show the size (in bytes) and structure of a Node that allocated six bytes of data
   - include the bytes pointer, and indicate using an arrow which byte in the allocated memory it points to.
 
-
+![image alt](https://github.com/LucasWeisend/SSU-CS-351/blob/001ab19dcc1fecfff9bc5f4883b9470a8cfbfe5f/Project-1/Screenshot%202026-03-09%20180819.png)
 
 ### 7. There's an overhead to allocating memory, initializing it, and eventually processing (in our case, hashing it). For each program, were any of these tasks the same? Which one(s) were different?
 
