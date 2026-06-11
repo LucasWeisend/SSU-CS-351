@@ -95,7 +95,7 @@ For `malloc.cpp` and `alloca.cpp`, each node is allocated as a single contiguous
 │  data[0] = 1  ◄─────────────────────┘    │
 │  data[1] = 2                             │
 │  ...                                     │
-│  data[5] = 6   ← for a 6-byte node      │
+│  data[5] = 6   ← for a 6-byte node       │
 └──────────────────────────────────────────┘
   Total: 24 bytes (struct) + 6 bytes (data) + padding
 ```
