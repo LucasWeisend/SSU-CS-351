@@ -89,10 +89,10 @@ For `malloc.cpp` and `alloca.cpp`, each node is allocated as a single contiguous
 ┌──────────────────────────────────────────┐
 │  Node* next          (8 bytes)           │
 │  Size  numBytes      (4 bytes)           │
-│  Byte* bytes         (8 bytes) ─────┐   │
-│  [padding]           (4 bytes)      │   │
-├──────────────────────────────────────┤   │
-│  data[0] = 1  ◄─────────────────────┘   │
+│  Byte* bytes         (8 bytes) ─────┐    │
+│  [padding]           (4 bytes)      │    │
+├─────────────────────────────────────┤────┤
+│  data[0] = 1  ◄─────────────────────┘    │
 │  data[1] = 2                             │
 │  ...                                     │
 │  data[5] = 6   ← for a 6-byte node      │
