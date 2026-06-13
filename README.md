@@ -8,10 +8,10 @@ This repository contains projects completed for SSU CS-351, each exploring a dif
 
 ## Projects
 
-### WebGL Shader Playground
+### [WebGL Shader Playground](Project-1/)
 An incremental series of WebGL 2.0 demos that build up from a single hard-coded triangle to a fully animated, color-shifting star — all rendered with procedural, bufferless geometry computed directly in GLSL shaders.
 
-### Memory Allocation Benchmark
+### [Memory Allocation Benchmark](Project-3/)
 A C++ benchmark comparing four memory allocation strategies (`alloca`, `malloc`, `new`, and `std::list`) on a shared linked-list workload, measuring execution time, heap usage, and scalability.
 
 ---
