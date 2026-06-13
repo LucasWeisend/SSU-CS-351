@@ -2,7 +2,7 @@
 
 A comparative performance analysis of four C++ memory allocation strategies — `alloca`, `malloc`, `new`, and `std::list` — measured across execution time, heap usage, and scalability.
 
-*This project was overseen and graded by professor Dave Shreiner.*
+*This project was overseen and graded by professor [Dave Shreiner](https://www.linkedin.com/in/daveshreiner/).*
 
 ---
 
