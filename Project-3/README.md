@@ -2,7 +2,7 @@
 
 An incremental WebGL 2.0 project built entirely in the browser — no bundlers, no frameworks, no GPU buffers. Each stage introduces a new GLSL or rendering concept, evolving from a single hard-coded triangle to a fully animated, color-shifting star rendered in real time.
 
-*This project was overseen and graded by professor Dave Shreiner*
+*This project was overseen and graded by professor [Dave Shreiner](https://www.linkedin.com/in/daveshreiner/)*
 
 ---
 
